@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Katas", "Katas\Katas.csproj", "{0AB41932-8DA5-4C8D-815B-F870EAB43695}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineFields", "MineFields\MineFields.csproj", "{080D9D18-3435-4FCA-9A58-E73C641B6A9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AB41932-8DA5-4C8D-815B-F870EAB43695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB41932-8DA5-4C8D-815B-F870EAB43695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB41932-8DA5-4C8D-815B-F870EAB43695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB41932-8DA5-4C8D-815B-F870EAB43695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{080D9D18-3435-4FCA-9A58-E73C641B6A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{080D9D18-3435-4FCA-9A58-E73C641B6A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{080D9D18-3435-4FCA-9A58-E73C641B6A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{080D9D18-3435-4FCA-9A58-E73C641B6A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+c:\users\remi.ceraline\documents\visual studio 2012\Projects\Katas\Katas\bin\Debug\Katas.dll
+c:\users\remi.ceraline\documents\visual studio 2012\Projects\Katas\Katas\bin\Debug\Katas.pdb
+c:\users\remi.ceraline\documents\visual studio 2012\Projects\Katas\Katas\bin\Debug\nunit.framework.dll
+c:\users\remi.ceraline\documents\visual studio 2012\Projects\Katas\Katas\bin\Debug\nunit.framework.xml
+c:\users\remi.ceraline\documents\visual studio 2012\Projects\Katas\Katas\obj\Debug\Katas.csprojResolveAssemblyReference.cache
+c:\users\remi.ceraline\documents\visual studio 2012\Projects\Katas\Katas\obj\Debug\Katas.dll
+c:\users\remi.ceraline\documents\visual studio 2012\Projects\Katas\Katas\obj\Debug\Katas.pdb

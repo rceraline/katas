@@ -1,0 +1,16 @@
+c:\Users\remi.ceraline\documents\visual studio 2012\Projects\Katas\MineFields\bin\Debug\MineFields.exe.config
+c:\Users\remi.ceraline\documents\visual studio 2012\Projects\Katas\MineFields\bin\Debug\MineFields.exe
+c:\Users\remi.ceraline\documents\visual studio 2012\Projects\Katas\MineFields\bin\Debug\MineFields.pdb
+c:\Users\remi.ceraline\documents\visual studio 2012\Projects\Katas\MineFields\bin\Debug\Katas.dll
+c:\Users\remi.ceraline\documents\visual studio 2012\Projects\Katas\MineFields\bin\Debug\nunit.framework.dll
+c:\Users\remi.ceraline\documents\visual studio 2012\Projects\Katas\MineFields\bin\Debug\Katas.pdb
+c:\Users\remi.ceraline\documents\visual studio 2012\Projects\Katas\MineFields\bin\Debug\nunit.framework.xml
+c:\Users\remi.ceraline\documents\visual studio 2012\Projects\Katas\MineFields\obj\Debug\MineFields.csprojResolveAssemblyReference.cache
+c:\Users\remi.ceraline\documents\visual studio 2012\Projects\Katas\MineFields\obj\Debug\MineFields.exe
+c:\Users\remi.ceraline\documents\visual studio 2012\Projects\Katas\MineFields\obj\Debug\MineFields.pdb
+C:\Users\Tribway\Documents\Katas\MineFields\bin\Debug\MineFields.exe.config
+C:\Users\Tribway\Documents\Katas\MineFields\obj\Debug\MineFields.exe
+C:\Users\Tribway\Documents\Katas\MineFields\obj\Debug\MineFields.pdb
+C:\Users\Tribway\Source\Repos\katas\Katas\MineFields\bin\Debug\MineFields.exe.config
+C:\Users\Tribway\Source\Repos\katas\Katas\MineFields\obj\Debug\MineFields.exe
+C:\Users\Tribway\Source\Repos\katas\Katas\MineFields\obj\Debug\MineFields.pdb
