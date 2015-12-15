@@ -1,7 +1,7 @@
 ﻿using System;
 using NUnit.Framework;
 
-namespace Katas
+namespace MineFields
 {
     [TestFixture]
     public class MineFieldsTests

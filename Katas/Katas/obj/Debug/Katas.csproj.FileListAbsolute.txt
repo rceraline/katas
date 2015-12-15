@@ -5,3 +5,10 @@ c:\users\remi.ceraline\documents\visual studio 2012\Projects\Katas\Katas\bin\Deb
 c:\users\remi.ceraline\documents\visual studio 2012\Projects\Katas\Katas\obj\Debug\Katas.csprojResolveAssemblyReference.cache
 c:\users\remi.ceraline\documents\visual studio 2012\Projects\Katas\Katas\obj\Debug\Katas.dll
 c:\users\remi.ceraline\documents\visual studio 2012\Projects\Katas\Katas\obj\Debug\Katas.pdb
+C:\Users\Tribway\Source\Repos\katas\Katas\Katas\bin\Debug\Katas.dll
+C:\Users\Tribway\Source\Repos\katas\Katas\Katas\bin\Debug\Katas.pdb
+C:\Users\Tribway\Source\Repos\katas\Katas\Katas\bin\Debug\nunit.framework.dll
+C:\Users\Tribway\Source\Repos\katas\Katas\Katas\bin\Debug\nunit.framework.xml
+C:\Users\Tribway\Source\Repos\katas\Katas\Katas\obj\Debug\Katas.csprojResolveAssemblyReference.cache
+C:\Users\Tribway\Source\Repos\katas\Katas\Katas\obj\Debug\Katas.dll
+C:\Users\Tribway\Source\Repos\katas\Katas\Katas\obj\Debug\Katas.pdb
